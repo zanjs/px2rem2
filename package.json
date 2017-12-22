@@ -1,7 +1,7 @@
 {
   "name": "px2rem2",
   "description": "According to one stylesheet, generate rem version and @1x, @2x and @3x stylesheet",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "https://github.com/zanjs/px2rem2",
   "author": "Julian <anlasheng@gmail.com>",
   "dependencies": {
