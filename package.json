@@ -1,7 +1,7 @@
 {
   "name": "px2rem2",
   "description": "According to one stylesheet, generate rem version and @1x, @2x and @3x stylesheet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/zanjs/px2rem2",
   "author": "Julian <anlasheng@gmail.com>",
   "dependencies": {
@@ -22,6 +22,7 @@
   "scripts": {
     "test": "mocha",
     "help": "./bin/px2rem.js",
+    "models":"node ./bin/px2rem.js -m true app.css",
     "cover": "node node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --reporter dot"
   },
   "main": "index.js",

@@ -94,3 +94,5 @@ typings/
 .env
 package-lock.json
 
+*.debug.**
+
