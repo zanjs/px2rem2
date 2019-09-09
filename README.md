@@ -1,5 +1,7 @@
 # px2rem2
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/px2rem2.svg)](https://greenkeeper.io/)
+
 According to one stylesheet, generate rem version and @1x, @2x and @3x stylesheet.
 
 [![NPM version][npm-image]][npm-url]
